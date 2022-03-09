@@ -1,5 +1,5 @@
 # Hi there 👋
-- 🌱 I’m currently learning 
+- 🌱 I’m learning 
 
 <!--
 **urs-santoshh/urs-santoshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
